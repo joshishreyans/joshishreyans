@@ -11,7 +11,6 @@
 This is Shreyans Joshi
 I am an aspiring Web developer from India, looking to develop my knowledge in React as well as MERN stack.</br>
 I am currently learning advanced JavaScript concepts.
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/Lg6vO9CNlQmUna1c5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 I am familiar with the following technologies:
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
