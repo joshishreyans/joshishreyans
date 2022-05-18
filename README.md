@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/shreyans-joshi-0807a7211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  ![](https://github.com/joshishreyans/joshishreyans/blob/main/giphy.gif)
 </div>
 <div align="center">Hi there 👋
 This is Shreyans Joshi
