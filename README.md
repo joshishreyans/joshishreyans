@@ -8,12 +8,13 @@
   </a>
 
 </div>
-<div align="center">Hi there 👋
+<div align="center">Hey there 👋
 This is Shreyans Joshi</br>
-I am an aspiring Web developer and cloud enthusiast from India.</br>
-I have the <strong>Microsoft certified Azure fundamentals</strong> and <strong>Amazon certified Cloud Practitioner badges.</strong></br>
-I am currently preparing for the AWS Solutions Archietect exam.</br>
-I also do content writing and I am the Co-Lead of Google Developer Student Club at my College.</br>
+I am a Cloud and Devops enthusiast from India.</br>
+I have obtained the <strong>Microsoft certified Azure Fundamentals</strong> and <strong>Amazon certified Cloud Practitioner badges.</strong></br>
+Currently, I am preparing for the AWS Solutions Architect exam.</br>
+I love to do content writing.</br> 
+In the year 2022, I was the Co-Lead of Google Developer Student Club at my College.</br>
 I am familiar with the following technologies:
 
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="aws" width="40" height="40"/>&nbsp;
