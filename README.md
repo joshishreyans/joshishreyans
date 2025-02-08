@@ -21,7 +21,6 @@ I am familiar with the following technologies:
   <img src="https://th.bing.com/th/id/OIP.YKENnQoVLxdj5twTXB0hCQHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="azure" width="40" height="40" />&nbsp;
   <img src="https://th.bing.com/th/id/OIP.503qr0zfvKj8gpv30NLoiQAAAA?w=211&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="chef" width="40" height="40" />&nbsp;
   <img src="https://th.bing.com/th/id/OIP.I-wbb2aw9q-zzukchMvSVgAAAA?w=189&h=159&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="jenkins" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.C8WVdizzhz9IXEUyic8iOQHaJ4?w=134&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="jenkins" width="40" height="40" />&nbsp;
   
 </div>
 <!--
