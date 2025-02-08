@@ -1,39 +1,22 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center">Hi 👋, I'm Shreyans</h1>
+<h3 align="center">A Cloud and DevOps Enthusiast.</h3>
 
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shreyans-joshi-0807a7211/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshishreyans" alt="joshishreyans" /></a> </p>
 
-</div>
-<div align="center">Hey there 👋
-This is Shreyans Joshi</br>
-I am a Cloud and Devops enthusiast from India.</br>
-I have obtained the <strong>Microsoft certified Azure Fundamentals</strong> and <strong>Amazon certified Cloud Practitioner badges.</strong></br>
-Currently, I am preparing for the AWS Solutions Architect exam.</br>
-I love to do content writing.</br> 
-In the year 2022, I was the Co-Lead of Google Developer Student Club at my College.</br>
-I am familiar with the following technologies:
+- 🔭 I’m currently working on **creating github actions templates.**
 
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="aws" width="40" height="40"/>&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.YKENnQoVLxdj5twTXB0hCQHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="azure" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.503qr0zfvKj8gpv30NLoiQAAAA?w=211&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="chef" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.I-wbb2aw9q-zzukchMvSVgAAAA?w=189&h=159&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="jenkins" width="40" height="40" />&nbsp;
-  
-</div>
-<!--
-**joshishreyans/joshishreyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **for CKA**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **cloud and devops (don't ask me about how I'm doing)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreyans-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyans-joshi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshishreyans&show_icons=true&locale=en&layout=compact" alt="joshishreyans" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshishreyans&show_icons=true&theme=onedark&text_color=fffafa&locale=en" alt="joshishreyans" /></p>
